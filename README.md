@@ -1,5 +1,3 @@
-# Lien drive du projet :
-
 
 ## Installation de WordPress
 J'ai telecharger le fichier zip de WordPress et je l'ai mis dans un nouveau dossier que j'ai appelé brief12 dans le dossier htdocs dans xampp.
